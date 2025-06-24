@@ -27,7 +27,7 @@ Stored in the `/sql/` folder:
 
 ## 🚀 Tools Used
 
-- SQL (SQLite)
+- pgAdmin4
 - Tableau
 - GitHub
 
